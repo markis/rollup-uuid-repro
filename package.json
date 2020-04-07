@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/uuid": "^3.4.3",
-    "rollup": "^0.56.2",
+    "rollup": "^0.68.2",
     "rollup-plugin-commonjs": "^8.3.0",
     "rollup-plugin-node-resolve": "^3.0.3",
     "rollup-plugin-typescript2": "^0.11.1",
